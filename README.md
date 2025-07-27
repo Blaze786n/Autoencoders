@@ -17,7 +17,7 @@ Compressing images using Autoencoders and transferring them over the network. Cu
 
 ### 2. AutoEncoder_Weights
 #### - There are 3 subdirectories
-> - Working : Contains the most stable and usable autoencoder weights (Currently for the 1M architecture).
+> - Working : Contains the most stable and usable autoencoder  weights (Currently for the 1M architecture).
 > - Experimental : Contains unstable autoencoder weights (Currently for the 9M architecture). At the moment has highly variable results.
 > - Legacy : Contains older versions of the autoencoder weights (Unsupported versions, 1M with less training cycles).
 
