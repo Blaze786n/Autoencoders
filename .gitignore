@@ -1,1 +1,12 @@
+# Ignore virtual environment
 venv
+
+# GitHub Pages / Jekyll-related ignores
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+/vendor
+Gemfile.lock
